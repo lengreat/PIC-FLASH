@@ -1,4 +1,4 @@
-<h1 id="title" align="center">PIC-FLASH</h1>
+<h1 id="title" align="center">PICT-FLASH</h1>
 
 <h3 align="center"> :hamburger: Interactive Program to learn english by means of cards :hamburger:</h3>
 <p align="center">
