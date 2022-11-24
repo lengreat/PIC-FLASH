@@ -1,6 +1,6 @@
 <h1 id="title" align="center">PIC-FLASH</h1>
 
-<h3 align="center"> :hamburguer: Interactive Program to learn english by means of cards :hamburguer: </h3>
+<h3 align="center"> :hamburger: Interactive Program to learn english by means of cards :hamburger:</h3>
 <p align="center">
   <a href="#title"><img src="https://forthebadge.com/images/badges/made-with-java.svg"></a>
   <a href="#title"><img src="https://forthebadge.com/images/badges/made-with-crayons.svg"></a>
@@ -20,7 +20,9 @@ Choose an option on combobox then press button "Start", thus commences the secue
 
 <h1 id="demo">Demo</h1>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/99779642/202403869-aa9e9b40-0107-4185-844f-0af4d5d87804.gif" "> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp <img src="https://user-images.githubusercontent.com/99779642/202403935-d8681b25-c9fb-424c-bb61-847c1969e8ca.gif" style="max-width:100%;width:auto;height:auto;">
+  <img src="https://user-images.githubusercontent.com/99779642/203690696-a2b7f21b-ee42-4536-b288-3db8f52045be.gif"> 
+  <br><br>
+  <img src="https://user-images.githubusercontent.com/99779642/203693174-fc080b4e-95ef-421a-ae7f-b9ee2930065d.gif" style="max-width:100%;width:auto;height:auto;">
 </p>
 
 <h1 id="setup">Setup</h1>
@@ -54,3 +56,5 @@ $ git clone https://github.com/lengreat/RACE_THREAD.git
 
 <a href="https://www.java.com/es/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303388/java-4-logo.svg" alt="Java" width="80" height="80"/> </a>
 
+![gifPicFlash1](https://user-images.githubusercontent.com/99779642/203690696-a2b7f21b-ee42-4536-b288-3db8f52045be.gif)
+![gitPictflash2](https://user-images.githubusercontent.com/99779642/203693174-fc080b4e-95ef-421a-ae7f-b9ee2930065d.gif)
