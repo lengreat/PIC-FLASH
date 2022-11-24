@@ -13,19 +13,25 @@
   <a href="#made_with">Made with</a> 
 </p>
 
-<h1 id="introduction">Introduction</h1>
+<h1 id="introduction">Introduction</h1><p align="justify">
 This program helps to learn languages, can be english or anything else. The system to use is the pictures memorization.
 It has 2 modes, writing and reading mode, reading by default. The program starts with several pictures randomly one by one showed by means of the key "enter". 
-Choose an option on combobox then press button "Start", thus commences the secuency but you have to press "enter" again and again until to end it.
+Choose an option on combobox then press button "Start", thus commences the secuency but you have to press "enter" again and again until to end it.</p>
 
 <h1 id="demo">Demo</h1>
-<p align="center"> 
-  <br><br>
-  <img witdh="50%" src="https://user-images.githubusercontent.com/99779642/203699187-6f220335-6d9e-446f-9995-0f572a30a131.gif">
-  <br> <br> 
-  <img src="https://user-images.githubusercontent.com/99779642/203699187-6f220335-6d9e-446f-9995-0f572a30a131.gif" style="max-width:100%;width:auto;height:auto;">
-  <br> <br>
-  <img src="https://user-images.githubusercontent.com/99779642/203690696-a2b7f21b-ee42-4536-b288-3db8f52045be.gif" style="max-width:100%;width:auto;height:auto;">
+<p align="center"> <div align="center">
+  
+  <br>** READING MODE **
+  
+  <img  align="center" src="https://user-images.githubusercontent.com/99779642/203699187-6f220335-6d9e-446f-9995-0f572a30a131.gif" >
+  <hr width="60%">
+  <br>
+  <br>** WRITING MODE **<br><br>
+  
+  <img align="center" src="https://user-images.githubusercontent.com/99779642/203712975-dbcada05-3b61-4508-a1df-f2801d998b38.gif" >
+  <hr width="60%">
+  <br>
+  </div>
 
 </p>
 
@@ -60,6 +66,3 @@ $ git clone https://github.com/lengreat/RACE_THREAD.git
 
 <a href="https://www.java.com/es/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303388/java-4-logo.svg" alt="Java" width="80" height="80"/> </a>
 
-![gifPicFlash1](https://user-images.githubusercontent.com/99779642/203690696-a2b7f21b-ee42-4536-b288-3db8f52045be.gif)
-![gitPictflash2](https://user-images.githubusercontent.com/99779642/203693174-fc080b4e-95ef-421a-ae7f-b9ee2930065d.gif)
-![gifPict3](https://user-images.githubusercontent.com/99779642/203699187-6f220335-6d9e-446f-9995-0f572a30a131.gif)
