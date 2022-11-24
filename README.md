@@ -19,10 +19,14 @@ It has 2 modes, writing and reading mode, reading by default. The program starts
 Choose an option on combobox then press button "Start", thus commences the secuency but you have to press "enter" again and again until to end it.
 
 <h1 id="demo">Demo</h1>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/99779642/203690696-a2b7f21b-ee42-4536-b288-3db8f52045be.gif"> 
+<p align="center"> 
   <br><br>
-  <img src="https://user-images.githubusercontent.com/99779642/203693174-fc080b4e-95ef-421a-ae7f-b9ee2930065d.gif" style="max-width:100%;width:auto;height:auto;">
+  <img witdh="50%" src="https://user-images.githubusercontent.com/99779642/203699187-6f220335-6d9e-446f-9995-0f572a30a131.gif">
+  <br> <br> 
+  <img src="https://user-images.githubusercontent.com/99779642/203699187-6f220335-6d9e-446f-9995-0f572a30a131.gif" style="max-width:100%;width:auto;height:auto;">
+  <br> <br>
+  <img src="https://user-images.githubusercontent.com/99779642/203690696-a2b7f21b-ee42-4536-b288-3db8f52045be.gif" style="max-width:100%;width:auto;height:auto;">
+
 </p>
 
 <h1 id="setup">Setup</h1>
@@ -58,3 +62,4 @@ $ git clone https://github.com/lengreat/RACE_THREAD.git
 
 ![gifPicFlash1](https://user-images.githubusercontent.com/99779642/203690696-a2b7f21b-ee42-4536-b288-3db8f52045be.gif)
 ![gitPictflash2](https://user-images.githubusercontent.com/99779642/203693174-fc080b4e-95ef-421a-ae7f-b9ee2930065d.gif)
+![gifPict3](https://user-images.githubusercontent.com/99779642/203699187-6f220335-6d9e-446f-9995-0f572a30a131.gif)
