@@ -1,11 +1,10 @@
-<h1 id="title" align="center">RACE-THREAD</h1>
+<h1 id="title" align="center">PIC-FLASH</h1>
 
-<h3 align="center"> :japanese_castle: Demonstration in JPanel of a block race made in Java :japanese_castle: </h3>
+<h3 align="center"> :hamburguer: Interactive Program to learn english by means of cards :hamburguer: </h3>
 <p align="center">
   <a href="#title"><img src="https://forthebadge.com/images/badges/made-with-java.svg"></a>
-  <a href="#title"><img src="https://forthebadge.com/images/badges/it-works-why.svg"></a>
+  <a href="#title"><img src="https://forthebadge.com/images/badges/made-with-crayons.svg"></a>
 </p>
-
 
 <p align="center">
   <a href="#introduction">Introduction</a> •
@@ -15,9 +14,9 @@
 </p>
 
 <h1 id="introduction">Introduction</h1>
-This is a small program made with Java, it consist of a several tracks which the 3 bloks run the way to reach the final stretch.
-
-The bloks positions are generated randomly, likewise its velocity can be increase by means of one click anywhere on track.
+This program helps to learn languages, can be english or anything else. The system to use is the pictures memorization.
+It has 2 modes, writing and reading mode, reading by default. The program starts with several pictures randomly one by one showed by means of the key "enter". 
+Choose an option on combobox then press button "Start", thus commences the secuency but you have to press "enter" again and again until to end it.
 
 <h1 id="demo">Demo</h1>
 <p align="center">
